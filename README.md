@@ -1,2 +1,2 @@
 # Hackathon-
-Attempts at various hackathons 
+This was a hackathon attempted with AEGIS school of business for the predictions  
